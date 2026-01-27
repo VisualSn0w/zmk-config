@@ -11,7 +11,7 @@ manifest:
       remote: zmkfirmware
       revision: main
       import: app/west.yml
-      - name: nice-view-gem #new entry
+    - name: nice-view-gem #new entry
       remote: m165437 #new entry
       revision: v0.3.0 #new entry
   self:
